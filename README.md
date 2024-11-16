@@ -1,14 +1,11 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m a front-end developer with a passion for crafting visually engaging web experiences. 
+I’m a front-end developer passionate about building visually compelling and user-friendly web experiences.
 
-I love blending creativity with code to create amazing user experiences. My mission is to create stunning and functional web applications.
+What I bring to the table:
 
-
-**A Bit About Me:**
-- I have a discerning taste for coffee.
-- Anime and Books have a special place in my heart.
-- I enjoy capturing candid moments through my camera lens.
+A knack for blending creativity and functionality in web design.
+A love for crafting clean, accessible, and responsive interfaces.
 
 Currently, I’m exploring new opportunities and would love to connect with like-minded individuals. Feel free to check out my work and reach out if you’d like to chat or collaborate!
 
