@@ -1,2 +1,2 @@
 ```
-idk what I'm doing tbh ngl
+i build things for the web
